@@ -8,14 +8,14 @@
 
     <style>
         body {
-            background-color: darkslategray;
+            background-color: darkred;
         }
 
         table {
             border: 1px solid white;
             border-radius: 10px;
             box-shadow: 5px 5px 5px rgba(red, green, blue, alpha);
-            background-color: darkgray;
+            background-color: darkcyan;
             outline: 1px solid black;
         }
 

@@ -16,7 +16,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('kalkulator.index');
 });
-Route::get('/', function () {
+
+Route::get('kalkulator2', function () {
     return view('kalkulator.kalkulator2');
 });
 
